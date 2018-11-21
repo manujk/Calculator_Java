@@ -43,11 +43,11 @@ public class Calc {
 	public static int Calc_multiply(int num1, int num2) {
 		int mul;
 		// To calculate Multiply
-		mul = num1 * num2;
+		mul = num1 * num2; 
 		return mul;
 	}
 
-	public static float Calc_divide(int num1, int num2) {
+	public static float Calc_divide(float num1, float num2) {
 		// To calculate Division
 		float div = num1 / num2;
 		return div;
